@@ -16,7 +16,6 @@ A complete wireless network infrastructure simulating a real-world company: a fo
 ## Files
 - `final_project.pkt` — the complete Packet Tracer topology and device configuration
 - `topology.png` — network diagram
-- `Wireless Network Project Description.pdf` — original project requirements and specification
 
 ## Tech Stack
 - Cisco Packet Tracer
